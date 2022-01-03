@@ -28,7 +28,7 @@ public class base
     	//String browserName=prop.getProperty("browser");  
     	// No need to change each time properties file based on the flexible browser requirement, manage via Jenkins.
     	
-       	if(browserName.equals("Chrome")) //
+       	if(browserName.equals("Chrome")) 
     	{
     		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\src\\main\\java\\resources\\chromedriver.exe");
      	 	driver=new ChromeDriver();
