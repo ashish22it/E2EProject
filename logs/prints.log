@@ -1,0 +1,327 @@
+02:22:39.699 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+02:22:53.331 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+02:22:54.355 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+02:22:54.397 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated text on page
+02:22:55.412 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+02:22:58.123 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:43:55.910 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:44:11.204 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:44:12.684 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:44:12.702 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:44:12.780 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated text on page
+15:44:12.999 [AsyncHttpClient-1-8] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+15:44:15.924 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:45:38.868 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:45:52.375 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:45:52.535 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:45:52.675 [AsyncHttpClient-1-9] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+15:45:53.943 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:45:57.401 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:48:34.494 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:48:47.896 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:48:48.019 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:48:48.923 [AsyncHttpClient-1-2] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+15:48:50.228 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:48:52.531 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:53:09.376 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:53:24.481 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:53:25.277 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:53:27.011 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:53:31.337 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+18:43:41.866 [main] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+18:43:41.989 [AsyncHttpClient-1-4] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+18:48:21.085 [main] INFO  Acedemy.HomePage - Login done successfully
+18:48:23.080 [main] INFO  Acedemy.HomePage - Login done successfully
+18:48:29.904 [main] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+18:48:29.989 [AsyncHttpClient-1-7] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+18:48:31.496 [main] INFO  Acedemy.validateTitle - driver is initialized
+18:48:35.613 [main] INFO  Acedemy.validateTitle - navigated to Homepage
+18:48:36.209 [AsyncHttpClient-1-2] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+00:30:32.167 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+00:30:47.011 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+00:30:47.581 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+00:30:49.847 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:30:54.303 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:30:54.388 [AsyncHttpClient-1-8] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) [netty-transport-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.69.Final.jar:4.1.69.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+01:11:24.313 [main] INFO  Acedemy.HomePage - Login done successfully
+01:11:27.011 [main] INFO  Acedemy.HomePage - Login done successfully
+01:13:24.122 [main] INFO  Acedemy.HomePage - Login done successfully
+01:13:26.557 [main] INFO  Acedemy.HomePage - Login done successfully
+01:14:44.885 [main] INFO  Acedemy.HomePage - Login done successfully
+01:14:47.601 [main] INFO  Acedemy.HomePage - Login done successfully
+01:16:22.826 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:16:36.241 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:16:38.601 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:16:41.103 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:16:44.924 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+13:49:26.219 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+13:49:37.263 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+13:49:37.307 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+13:49:39.188 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+13:49:42.494 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:12:50.897 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:13:00.341 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:13:00.364 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:13:02.874 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:13:06.975 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:14:26.338 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:14:33.229 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:14:34.269 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:14:39.509 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:14:42.459 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:20:33.960 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:20:46.001 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:20:46.296 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:20:46.894 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:20:50.111 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:39:03.866 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:39:22.473 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:39:22.485 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:39:31.677 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:39:37.250 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:43:51.694 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+15:44:03.388 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+15:44:03.545 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+15:44:06.150 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+15:44:09.169 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:13:42.078 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:13:48.927 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:13:50.633 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:13:52.109 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:13:57.096 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:23:47.542 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:24:00.040 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:24:00.937 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:24:04.230 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:24:04.728 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:30:48.118 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:30:56.476 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:30:58.326 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:30:59.122 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:31:04.237 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:34:41.996 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:34:54.408 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:34:56.789 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:34:57.369 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:35:00.842 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:37:13.893 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:37:27.336 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:37:27.767 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:37:29.004 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:37:32.515 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:40:22.106 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:40:37.423 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:40:37.781 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:40:40.747 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:41:04.785 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:41:16.901 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:41:17.186 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:41:21.509 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:41:24.399 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:45:36.476 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:45:49.014 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:45:49.125 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:45:51.173 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:45:53.885 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:47:35.863 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:47:47.167 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:47:48.723 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:47:49.011 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:47:51.910 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:50:11.722 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:50:23.635 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:50:25.367 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:50:27.056 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:50:30.517 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:52:49.313 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:53:02.832 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:53:03.845 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:53:05.683 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:53:08.451 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+12:06:09.684 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+12:06:14.898 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+12:06:15.659 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+12:06:17.706 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+12:06:19.770 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+12:08:36.003 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+12:08:47.862 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+12:08:50.576 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+12:08:53.028 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+12:08:56.535 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+12:10:40.428 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+12:10:54.011 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+12:10:54.102 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+12:10:56.318 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+12:10:59.163 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+13:18:10.299 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+13:18:25.218 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+13:18:25.480 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+13:18:27.545 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+13:18:30.230 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+13:20:22.086 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+13:20:37.584 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+13:20:37.844 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+13:20:39.061 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+13:20:42.384 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+18:14:37.338 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+18:14:49.920 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+18:14:50.559 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+18:14:52.970 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+18:14:55.972 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:39:40.030 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+00:39:52.990 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+00:39:53.357 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+00:39:54.882 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:39:57.646 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:44:17.212 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+00:44:29.264 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+00:44:29.483 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+00:44:31.328 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:44:33.955 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:46:26.370 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+00:46:37.714 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+00:46:38.818 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
+00:46:39.740 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+00:46:41.263 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:46:44.228 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:47:16.905 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+00:47:28.829 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+00:47:28.904 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated text on page
+00:47:28.964 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
+00:47:29.353 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+00:47:30.895 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:47:33.660 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:52:59.853 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+00:53:13.454 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+00:53:14.768 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+00:53:14.822 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
+00:53:15.400 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:53:19.550 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:34:17.264 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:34:31.190 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:34:31.234 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:34:31.727 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
+01:34:33.323 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:34:36.181 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:47:24.200 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:47:40.392 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:47:40.695 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:47:41.212 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:47:45.366 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:49:12.595 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+01:49:45.093 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+01:49:50.303 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
+01:49:55.199 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+01:49:56.087 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+01:50:05.215 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:01:52.233 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+00:02:00.462 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+00:02:01.136 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+00:02:04.015 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
+00:02:06.338 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+00:02:09.588 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
