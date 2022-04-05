@@ -325,3 +325,8 @@ java.net.SocketException: Connection reset
 00:02:04.015 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
 00:02:06.338 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
 00:02:09.588 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
+18:37:19.219 [TestNG-tests-3] INFO  Acedemy.validateTitle - driver is initialized
+18:37:52.784 [TestNG-tests-2] INFO  Acedemy.validateNavigationBar - Navigation Bar is displayed
+18:37:52.952 [TestNG-tests-3] INFO  Acedemy.validateTitle - navigated to Homepage
+18:37:53.579 [TestNG-tests-3] INFO  Acedemy.validateTitle - Successfully validated video banner on page
+18:38:04.145 [TestNG-tests-1] INFO  Acedemy.HomePage - Login done successfully
